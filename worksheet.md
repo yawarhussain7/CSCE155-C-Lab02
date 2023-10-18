@@ -82,9 +82,16 @@ Please enter the base of a triangle: 3
 Please enter the height of a triangle: 4
 The area is 0.000000 square units
 
+The answer is not correct 
+
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
 
+Please enter the base of a triangle: 3
+Please enter the height of a triangle: 5
+The area is 0.000000 square units.
+
+The answer is not correct because we know when we divided two integer the result is also an integer value. In over case 1/2 which is equal to 0.5 as both value is int so it skip .5 and use 0 for multiplication as the result the answer is show 0.000000
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
