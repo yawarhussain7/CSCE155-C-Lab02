@@ -27,7 +27,7 @@ int main()
 
     printf("Fee (10%): %0.2f\n",exchange_rate);
     printf("You gets:\n");
-    printf("%lf GBP\n",Pound);
+    printf("%0.2lf GBP\n",Pound);
     printf("%.0f YEN\n",JPY);
 
 
