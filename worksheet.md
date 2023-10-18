@@ -20,7 +20,9 @@ Hello, DennisRitchie.  You are 82 years, 5 weeks, and 4 days old today
 language, the object-oriented extension of C, was born on
 December 30th, 1950.  How old is he today?
 
-
+Today is 2023/10/18
+Your birthday was 1950/12/30
+Hello, BjarneStroustrup.  You are 72 years, 41 weeks, and 5 days old today
 
 
 3. Software testing often involves testing code with known
