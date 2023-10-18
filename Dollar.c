@@ -15,6 +15,10 @@ int main()
 
     double USD, JPY,Pound,excange_rate ;
 
+    printf("Please input the total amount of US Dollars: ");
+    scanf("%lf",&USD);
+
+    excange_rate = (USD/10);
 
 
 
