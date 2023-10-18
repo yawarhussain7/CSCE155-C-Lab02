@@ -41,11 +41,11 @@ results you observe.
   size: 1 byte
   range: -128 to 127
 * `short int`
-  size:
-  range:
-* `int`
-  size:
-  range:
+  size:   2 bytes
+  range:  -32768 to 32767
+* `int` 
+  size: 4 btyes
+  range:   -2147483648 to  2147483647
 * `long int`
   size:
   range:
