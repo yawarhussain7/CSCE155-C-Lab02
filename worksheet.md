@@ -95,3 +95,5 @@ The answer is not correct because we know when we divided two integer the result
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+
+explicit typecost in area formula 
