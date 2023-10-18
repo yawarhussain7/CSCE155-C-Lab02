@@ -47,13 +47,13 @@ results you observe.
   size: 4 btyes
   range:   -2147483648 to  2147483647
 * `long int`
-  size:
-  range:
+  size: 4 bytes
+  range:    -2147483648 to  2147483647
 * `float`
-  size:
+  size: 4 btyes
   range: 7 digits of accuracy
 * `double`
-  size:
+  size: 8 bytes
   range: 15 digits of accuracy
 
 
