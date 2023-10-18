@@ -2,7 +2,7 @@
 # Computer Science I 
 ## Lab 2.0 Worksheet
 
-Name(s) and Login(s):
+Name(Yawar Hussain) and Login(s):
 
 
 
@@ -11,7 +11,9 @@ was born on September 9th, 1941.  If he were still alive,
 how old would he be today?  Find out by running the `birthday`
 program on the appropriate inputs and enter your solution here.
 
-
+Today is 2023/10/18
+Your birthday was 1941/09/09
+Hello, DennisRitchie.  You are 82 years, 5 weeks, and 4 days old today
 
 
 2. Bjarne Stroustrup, the creator of the C++ programming
