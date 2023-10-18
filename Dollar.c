@@ -13,18 +13,22 @@ int main()
     const float GBP = 0.79;
     const float YEN = 127.65;
 
-    double USD, JPY,Pound,excange_rate,remaning_USD ;
+    double USD, JPY = 0,Pound = 0,exchange_rate = 0,remaning_USD =0;
 
     printf("Please input the total amount of US Dollars: ");
     scanf("%lf",&USD);
 
-    excange_rate = (USD/10);
+    exchange_rate = (USD/10);
+    
+    remaning_USD = USD - exchange_rate;
 
-    remaning_USD = USD - excange_rate;
+    JPY = remaning_USD * 0.5  * YEN;
+    Pound = remaning_USD * 0.5  * GBP;
 
-    JPY = remaning_USD * excange_rate * YEN;
-    Pound = remaning_USD * excange_rate * GBP;
-
+    printf("Fee (10%): %0.2f\n",exchange_rate);
+    printf("You gets:\n");
+    printf("%lf GBP\n",Pound);
+    printf("%.0f YEN\n",JPY);
 
 
 
