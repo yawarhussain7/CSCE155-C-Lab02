@@ -22,6 +22,8 @@ int main()
 
     remaning_USD = USD - excange_rate;
 
+    JPY = remaning_USD * excange_rate * YEN;
+
 
 
 
