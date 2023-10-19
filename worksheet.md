@@ -95,7 +95,11 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
+I would not be able to use it to convert the US national debt to int types conversion program 
+because the range of integer is very small as compair to US national dept 
 
+US national debt = 26009754625487 
+int range       =  -2147483648 to  2147483647
 
 
 7. Mixed types
