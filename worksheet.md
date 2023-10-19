@@ -36,7 +36,9 @@ Today is 2023/10/19
 Your birthday was 2002/01/31
 Hello, Rizwan_Hadir.  You are 21 years, 37 weeks, and 2 days old today.
 
-
+Today is 2023/10/19
+Your birthday was 2004/12/21
+Hello, Shoaib.  You are 18 years, 43 weeks, and 0 days old today.
 
 4. Complete all the size and range entries below.
 
