@@ -83,7 +83,11 @@ the exchange amounts for the following inputs:
 
   c) $968,410.12
 
-
+    Please input the total amount of US Dollars: 986410.12
+    Fee (10%): 98641.01
+    You gets:
+    350668.81 GBP
+    56661864 YEN
 
 6. Suppose that you had used only `int` types
 in your conversion program.  Would you be able
