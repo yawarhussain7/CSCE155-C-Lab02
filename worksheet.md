@@ -75,6 +75,12 @@ the exchange amounts for the following inputs:
 
   b) $1,000.52
 
+    Please input the total amount of US Dollars: 1000.52
+    Fee (10%): 100.05
+    You gets:
+    355.68 GBP
+    57472 YEN
+
   c) $968,410.12
 
 
