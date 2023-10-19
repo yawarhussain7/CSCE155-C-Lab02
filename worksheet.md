@@ -67,6 +67,12 @@ the exchange amounts for the following inputs:
 
   a) $250.25
 
+    Please input the total amount of US Dollars: 250.25
+    Fee (10%): 25.02
+    You gets:
+    88.96 GBP
+    14375 YEN
+
   b) $1,000.52
 
   c) $968,410.12
