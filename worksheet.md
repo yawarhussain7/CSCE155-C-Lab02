@@ -32,6 +32,9 @@ program by giving it "bad" input and observe the consequences.
 Give at least two examples of potentially bad input and the
 results you observe.
 
+Today is 2023/10/19
+Your birthday was 2002/01/31
+Hello, Rizwan_Hadir.  You are 21 years, 37 weeks, and 2 days old today.
 
 
 
